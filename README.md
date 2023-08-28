@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Web Designer based in Morocco. I have a passion for building and creating unique stuff and enjoy working on various projects related to Web design. 
+I'm a Web Designer based in Morocco. I have a passion for building and creating unique stuff and enjoy working on various projects related to Web Design. 
 
 - 🔭 I'm currently working on [printf](https://github.com/alamy2711/printf) project.
 - 🌱 I'm learning Software Engineering.
