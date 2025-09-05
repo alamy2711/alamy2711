@@ -2,11 +2,12 @@
 
 ## About Me
 
-I'm a Web Designer based in Morocco. I have a passion for building and creating unique stuff and enjoy working on various projects related to Web Design. 
+I’m a Fullstack Software Engineer passionate about building web applications and solving real-world problems with code.
 
-- 🔭 I'm currently working on [printf](https://github.com/alamy2711/printf) project.
-- 🌱 I'm learning Software Engineering.
-- 👯 I'm looking to collaborate on the upcoming Simple Shell project.
+- 🎓 Background in Mathematics & Computer Science.
+- 💻 Experience with React, Laravel, Node.js, MySQL, MongoDB, and WordPress.
+- 🚀 Interested in software engineering, web development, and scalable applications.
+- 🌱 Continuously learning and improving through projects and open-source contributions.
 <!---
 - 💬 Ask me about [Your Area of Expertise].
 
