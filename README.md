@@ -37,7 +37,7 @@ You can find more of my projects on [GitHub](https://github.com/YourGitHubUserna
  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmustaphaelalamy%2F">
  </a>
  <span>&nbsp;&nbsp;</span>
- <a href="https://twitter.com/alamy2711">
+ <a href="https://twitter.com/elalamymustapha">
  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Falamy2711">
  </a>
  <span>&nbsp;&nbsp;</span>
