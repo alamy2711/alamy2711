@@ -47,9 +47,11 @@ You can find more of my projects on [GitHub](https://github.com/YourGitHubUserna
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamy2711&show_icons=true&theme=radical)
+<!---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamy2711&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamy2711&layout=compact&theme=radical)
+--->
 
 Thanks for visiting my profile! Let's connect and collaborate on some exciting projects. 😄
 
